@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Super-Move",
+		"uniqueTo": "Upside-Down",
+		"uniques": [
+            "Can see over obstacles",
+            "Ignores terrain cost",
+	    "Can move immediately once bought",
+	    "Ignores Zone of Control",
+	    "[1] Movement point cost to embark",
+	    "[1] Movement point cost to disembark",
+	    "[+8] Sight"
+	    "Can move after attacking"]
+	},
+	{
+		"name": "Super-Training",
+		"uniqueTo": "Upside-Down",
+		"uniques": [
+            "May attack when embarked",
+	    "Can move after attacking",
+	    "Unit will heal every turn, even if it performs an action",
+	    "[+100]% XP gained from combat",
+	    "May heal outside of friendly territory",
+	    "All healing effects doubled",
+	    "Unit will heal every turn, even if it performs an action",
+	    "Damage is ignored when determining unit Strength",
+	    "Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
+	    "[1] additional attacks per turn"]
+	}
+	{
+		"name": "Super-Ranged",
+		"uniqueTo": "Upside-Down",
+		"uniques": [
+	    "Ranged attacks may be performed over obstacles",
+	    "[+2] Range"]
+	}
+]
