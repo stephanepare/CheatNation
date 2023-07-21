@@ -2,7 +2,7 @@
 	{
 		"name": "Poutine Fest",
 		"uniqueTo": "Quebec",
-		"terrainsCanBeBuiltOn": ["Land"],
+		"terrainsCanBeBuiltOn": ["Land", "Forest", "Jungle"],
 		"food": 4,
 		"production": 4,
 		"gold": 4,
