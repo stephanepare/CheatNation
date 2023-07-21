@@ -7,3 +7,7 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
 * [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
+
+Following are taken from www.flaticon.com and resized/made transparent manually.
+* .[Quebec] <a href="https://www.flaticon.com/free-icons/quebec" title="quebec icons"></a>
+* .[Poutine]<a href="https://www.flaticon.com/free-icons/poutine" title="poutine icons">Poutine icons created by Freepik - Flaticon</a> 
