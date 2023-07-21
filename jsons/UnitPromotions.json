@@ -19,7 +19,7 @@
             "May attack when embarked",
 	    "Can move after attacking",
 	    "Unit will heal every turn, even if it performs an action",
-	    "[+500]% XP gained from combat",
+	    "[20] XP gained from combat",
 	    "May heal outside of friendly territory",
 	    "All healing effects doubled",
 	    "Unit will heal every turn, even if it performs an action",
