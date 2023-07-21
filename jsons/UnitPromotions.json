@@ -9,7 +9,7 @@
 	    "Ignores Zone of Control",
 	    "[1] Movement point cost to embark",
 	    "[1] Movement point cost to disembark",
-	    "[+8] Sight"
+	    "[+12] Sight"
 	    "Can move after attacking"]
 	},
 	{
@@ -19,12 +19,13 @@
             "May attack when embarked",
 	    "Can move after attacking",
 	    "Unit will heal every turn, even if it performs an action",
-	    "[+100]% XP gained from combat",
+	    "[+500]% XP gained from combat",
 	    "May heal outside of friendly territory",
 	    "All healing effects doubled",
 	    "Unit will heal every turn, even if it performs an action",
 	    "Damage is ignored when determining unit Strength",
 	    "Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
+	    "Heals [30] damage if it kills a unit"
 	    "[1] additional attacks per turn"]
 	}
 	{
