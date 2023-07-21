@@ -1,5 +1,1 @@
-# Unciv-mod-example
-
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+Cheat mod to practice myself. Some lines taken from Upside-Down, except I tried to make it more mods-friendly, and tried more universal boosts. The only mod I could see not working with this is deciv redux, since it uses all custom civs, res names, promotions.
