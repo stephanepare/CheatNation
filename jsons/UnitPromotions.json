@@ -9,7 +9,7 @@
 	    "Ignores Zone of Control",
 	    "[1] Movement point cost to embark",
 	    "[1] Movement point cost to disembark",
-	    "[+12] Sight"
+	    "[+12] Sight",
 	    "Can move after attacking"]
 	},
 	{
@@ -25,7 +25,8 @@
 	    "Unit will heal every turn, even if it performs an action",
 	    "Damage is ignored when determining unit Strength",
 	    "Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
-	    "Heals [30] damage if it kills a unit"
+	    "Heals [30] damage if it kills a unit",
+	    "[+20]% Strength <vs [Barbarian] units>",
 	    "[1] additional attacks per turn"]
 	}
 	{
@@ -33,6 +34,6 @@
 		"uniqueTo": "Upside-Down",
 		"uniques": [
 	    "Ranged attacks may be performed over obstacles",
-	    "[+2] Range"]
+	    "[+3] Range"]
 	}
 ]
