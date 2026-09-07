@@ -24,7 +24,7 @@
 	    "May heal outside of friendly territory",
 	    "All healing effects doubled",
 	    "Unit will heal every turn, even if it performs an action",
-	    "Damage is ignored when determining unit Strength",
+	    "No damage penalty for wounded units",
 	    "Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
 	    "Heals [30] damage if it kills a unit",
 	    "[+20]% Strength <vs [Barbarian] units>",
