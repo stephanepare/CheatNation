@@ -9,8 +9,8 @@
 	    "Ignores Zone of Control",
 	    "[1] Movement point cost to embark",
 	    "[1] Movement point cost to disembark",
-	    "[+12] Sight",
-	    "[+8] Movement",
+	    "[+4] Sight",
+	    "[+4] Movement",
 	    "Can move after attacking"]
 	},
 	{
@@ -20,7 +20,7 @@
             "May attack when embarked",
 	    "Can move after attacking",
 	    "Unit will heal every turn, even if it performs an action",
-	    "[20] XP gained from combat",
+	    "[40] XP gained from combat",
 	    "May heal outside of friendly territory",
 	    "All healing effects doubled",
 	    "Unit will heal every turn, even if it performs an action",
