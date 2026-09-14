@@ -3,17 +3,17 @@
 		"name": "Poutine Fest",
 		"uniqueTo": "Quebec",
 		"terrainsCanBeBuiltOn": ["Land", "Forest", "Jungle"],
-		"food": 4,
-		"production": 4,
-		"gold": 4,
+		"food": 3,
+		"production": 3,
+		"gold": 1,
 		"culture": 1,
 		"faith": 1
 		"turnsToBuild": 1,
 		"uniques": ["[+1 Food] for each adjacent [Oasis]",
-			"[+1 Food] for each adjacent [Mountain]"],["Can also be built on tiles adjacent to fresh water",
-			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>","[+1 Production] <after discovering [Scientific Theory]>"
-			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>","[+1 Production] <after discovering [Chemistry]>"
-            "Pillaging this improvement yields approximately [+18 Gold]"],
+			"[+1 Food] for each adjacent [Mountain]"], ["Can also be built on tiles adjacent to fresh water",
+			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>", "[+1 Production] <after discovering [Scientific Theory]>"
+			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>", "[+1 Production] <after discovering [Chemistry]>"
+            "Pillaging this improvement yields approximately [+18 Gold]"]
 		"shortcutKey": "P"
 	}
 ]
