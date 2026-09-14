@@ -37,4 +37,14 @@
 	    "Ranged attacks may be performed over obstacles",
 	    "[+3] Range"]
 	}
+	{
+		"name": "Super-Carrier",
+		"uniqueTo": "Upside-Down",
+		"uniques": ["Can carry [6] extra [Aircraft] units"]
+	}
+	{
+		"name": "Super-Flight",
+		"uniqueTo": "Upside-Down",
+		"uniques": ["[+10] Range"]
+	}
 ]
